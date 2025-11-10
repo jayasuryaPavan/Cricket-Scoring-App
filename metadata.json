@@ -1,0 +1,7 @@
+{
+  "name": "AI Cricket Scorer",
+  "description": "A cricket scoring application that uses speech input to update the score in real-time. It tracks runs, wickets, and overs, and persists the game state in session storage.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
